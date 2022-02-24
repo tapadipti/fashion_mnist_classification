@@ -1,4 +1,4 @@
 {
-  "custom_custom_loss": 1,
-  "custom_custom_accuracy": 1
+  "metric_1": 1,
+  "metric_2": 1
 }
