@@ -1,0 +1,5 @@
+image-synthesis-model:
+  labels:
+  - ''
+  path: models/image-synthesis-model.h5
+  type: model
